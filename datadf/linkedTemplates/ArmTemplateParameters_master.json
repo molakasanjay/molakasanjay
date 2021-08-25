@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datadf"
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"LinkedGen2_accountKey": {
+			"value": ""
+		},
+		"LinkedGen2_properties_typeProperties_url": {
+			"value": "https://n13.dfs.core.windows.net"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
